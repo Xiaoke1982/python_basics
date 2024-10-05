@@ -1,4 +1,4 @@
-# python_basics
+# Python Basics
 
 This repo is a review of Python basics. There are 10 main sections.
 
